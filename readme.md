@@ -55,6 +55,8 @@ Repositori ini ditujukan untuk para peminat *web programming* tingkat paling das
     - [Menjalankan Web Server dengan NPM](node.js/anoa/readme.md#menjalankan-web-server-dengan-npm)
     - [Deploy ke Zeit Server](node.js/anoa/readme.md#deploy-ke-zeit-server)
   - [Praktikum Membuat Todo App](https://github.com/ynwd/todo-express-webpack-react)
+- Jaringan
+  - [Hardening Switch Cisco 2960 (SW-ACC-AP2)](network/sw-acc-ap2.md)
 - Microservice Architecture
 - Docker
 - Continuous Integration
